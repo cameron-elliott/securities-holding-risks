@@ -20,6 +20,9 @@ This risk may be avoided be avoided by opening only non-margin "cash accounts" s
 > Since the direct registration puts shares in your name, rather in street name, these investors feel that this gives them greater protection against a brokerage collapse in which client assets turn out to be missing. This concern has become much more widespread since the failure of MF Global. There is some logic to this, although you should bear in mind that stocks held in street name through a US broker will be covered by the Securities Investors Protection Corporation compensation scheme up to a limit of US$500,000.
 
 
+### Directly held Mutual Funds vs Mutual Funds inside brokerage account
+[nisiprius 1](https://www.bogleheads.org/forum/viewtopic.php?t=218010#p3353241)
+
 
 ### Waiver
 This site is for educational and informational purposes only. Nothing contained here should be construed by anyone as an invitation or solicitation to buy or sell any security. This site does not contain personalized legal, tax, investment, or financial advice. Users of this site should consult with a qualified adviser to obtain advice suited to their personal circumstances. Any links provided here to other web sites are for informational purposes only. We take no responsibility for the accuracy or content of linked sites.
