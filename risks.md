@@ -3,12 +3,13 @@
 
 # Some risks to consider when investing in securities
 
-[readme](README.md)
-
-Rehypothecation risk can be avoided by opening only non-margin "cash accounts" sometimes known as "Type 1 accounts."
 
 
-[foo](bar)
+### Rehypothecation risk
+The risk of losing your assets in a margin account.
+This risk may be avoided be avoided by opening only non-margin "cash accounts" sometimes known as "Type 1 accounts."
+[What is Rehypothecation?](https://www.thebalance.com/rehypothecation-investment-disaster-357232)
+
 
 
 
