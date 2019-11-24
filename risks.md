@@ -16,6 +16,8 @@ This risk may be avoided be avoided by opening only non-margin "cash accounts" s
 [What is Rehypothecation?](https://www.thebalance.com/rehypothecation-investment-disaster-357232)
 
 
+### Direct registration vs street name risk
+> Since the direct registration puts shares in your name, rather in street name, these investors feel that this gives them greater protection against a brokerage collapse in which client assets turn out to be missing. This concern has become much more widespread since the failure of MF Global. There is some logic to this, although you should bear in mind that stocks held in street name through a US broker will be covered by the Securities Investors Protection Corporation compensation scheme up to a limit of US$500,000.
 
 
 
