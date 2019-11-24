@@ -23,6 +23,8 @@ This risk may be avoided be avoided by opening only non-margin "cash accounts" s
 ### Directly held Mutual Funds vs Mutual Funds inside brokerage account
 [nisiprius 1](https://www.bogleheads.org/forum/viewtopic.php?t=218010#p3353241)
 
+### "Street name" vs directly held mutual funds
+[The last thing you want in a SIPC insolvency liquidation is to have your shares in street name.](https://www.bogleheads.org/forum/viewtopic.php?f=10&t=273858&start=50#p4853930)
 
 ### Waiver
 This site is for educational and informational purposes only. Nothing contained here should be construed by anyone as an invitation or solicitation to buy or sell any security. This site does not contain personalized legal, tax, investment, or financial advice. Users of this site should consult with a qualified adviser to obtain advice suited to their personal circumstances. Any links provided here to other web sites are for informational purposes only. We take no responsibility for the accuracy or content of linked sites.
